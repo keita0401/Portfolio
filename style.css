@@ -1,13 +1,13 @@
 @charset "UTF-8";
 
 body {
-    font-family: "Noto Sans JP ,sans-serif"
+    font-family: "Noto Sans JP ,sans-serif";
     margin: 0; 
     min-width: 1076px;
 }
 
 .color-green {
-  color: #00abae;  
+  color: hsl(181, 100%, 34%);  
 }
 
 .block-header {
